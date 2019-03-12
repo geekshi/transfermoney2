@@ -88,7 +88,7 @@ for make a transfer between 2 accounts
 ## API document
 http://localhost:8080/swagger-ui.html
 
-## Links of API specifications in GitHub
+## Link of API specifications in GitHub
 /src/main/resources/api-docs.json
 
 ## 3rd party library used

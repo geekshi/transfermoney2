@@ -1,7 +1,7 @@
 # Transfer money RESTful API V2
 A Java RESTful API V2 for retrieve balance and make a transfer between 2 accounts. Rather than first version, this version uses database for data access
 
-## prepare database
+## Prepare database
 Modify /src/main/resources/application.properties to change MySQL login credentials. Execute /src/main/resources/init.sql for database initialization in MySQL
 
 ## How to run

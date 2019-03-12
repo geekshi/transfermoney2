@@ -5,7 +5,8 @@ A Java RESTful API V2 for retrieve balance and make a transfer between 2 account
 Modify /src/main/resources/application.properties to change MySQL login credentials. Execute /src/main/resources/init.sql for database initialization in MySQL
 
 ## How to run
-`./mvnw spring-boot:run`
+- `mvn install`
+- `java -jar target/transfermoney-0.0.1-SNAPSHOT.jar`
 
 ## Unit test
 Run TransferApplicationTests
